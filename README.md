@@ -28,13 +28,13 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 ## Tecnologias 
 
 <p align="center" >
- <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="70px"/>
- <img src="https://img.icons8.com/color/96/000000/css3.png" height="70px"/>
- <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="70px"/>
- <img src="https://img.icons8.com/color/96/000000/typescript.png" height="70px"/>
- <img src="https://img.icons8.com/color/96/000000/nodejs.png" height="70px"/>
- <img src="https://img.icons8.com/officel/80/000000/react.png" height="70px"/>
- <img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" height="65px" />
+ <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="65px"/>
+ <img src="https://img.icons8.com/color/96/000000/css3.png" height="65px"/>
+ <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="65px"/>
+ <img src="https://img.icons8.com/color/96/000000/typescript.png" height="65px"/>
+ <img src="https://img.icons8.com/color/96/000000/nodejs.png" height="65px"/>
+ <img src="https://img.icons8.com/officel/80/000000/react.png" height="65px"/>
+ <img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" height="60px" />
 </p>
 
 ## Cursos <img src="assets/stubparrot.gif" height="30">
