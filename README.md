@@ -23,12 +23,12 @@ Me chamo Eduado Souza tenho 37 anos, casado, pai de um casal de filhos(amores da
 
 ## Cursos <img src="assets/stubparrot.gif" height="30">
 
-<p>Na tabela abaixo você encontrar os cursos que realizei e seus repositorios centrais com os projetos 🚀.</p>
+<p>Na tabela abaixo você encontrar os cursos que realizei ou em andamento e os links dos seus repositorios com exercícios e projetos 🚀.</p>
 
 
 Name | Description | Status | Repositório
 -----|-------------|--------|------
- [<br/><p align="center" ><img alt="Imagem Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLR_SyZfBGCaEAnxq60KzGD6oWt0uQK5NozzslXs=s88-c-k-c0x00ffffff-no-rj" width="70px"/></p>](https://rocketseat.com.br/) | Seu ecossistema para aprender e evoluir em programação. | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
+ [<br/><p align="center" ><img alt="Imagem Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLR_SyZfBGCaEAnxq60KzGD6oWt0uQK5NozzslXs=s88-c-k-c0x00ffffff-no-rj" width="70px"/></p>](https://www.udemy.com/course/react-avancado/) | Aprenda a criar um e-commerce real do zero, indo do backend ao frontend até o deploy para produçao! | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
  [<br/><p align="center" ><img alt="Imagem Rocketseat" src="https://t2.tudocdn.net/572277?w=646&h=284" width="150px"/></p>](https://rocketseat.com.br/) | Seu ecossistema para aprender e evoluir em programação. | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
  [<br/><p align="center" ><img alt="Imagem trybe" src="https://i.ibb.co/d4W2x4g/trybe.png" width="70px"/></p>](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwiqWHBhD2ARIsAPCDzanDSywMF8Tv_knmbWOo6MF7KIwvFyrkq7Kkc-jQ7xanpTJvaJ9Dyn8aAsglEALw_wcB) | A escola que te ensina a programar, a aprender e atrabalhar. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
 
