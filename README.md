@@ -1,3 +1,5 @@
+
+
 <div align="center">
 <h1 title="hehehe"> Hey <img src="assets/space-cat.webp" height="40">, I'm Eduardo Souza!</h1>
 </div>
@@ -9,13 +11,12 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EduSouza-programmer&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>  
 
 <br/><br/><br/><br/>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<br/>
+<img align="right" width="400px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-## Sobre mim
+ ### ✨ Sobre mim
 
-A passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
-The motto of my life is to be determined towards the software world and its development for the betterment in the standard of living of the society.
+<p>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Obrigado por está visualizando meu perfil o/. 
+Me chamo Eduado Souza tenho 37 anos, casado, pai de um casal de filhos(amores da minha vida!), atualmente morando no Rio de Janeiro, e sou web developer, um verdadeiro estudante da área desde 2018. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Adoro jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p>
 
 
 <p align=center>
