@@ -1,5 +1,6 @@
 
 
+
 <div align="center">
 <h1 title="hehehe"> Hey <img src="assets/space-cat.webp" height="40">, Eduardo Souza!</h1>
 </div>
@@ -17,9 +18,21 @@
  ### Sobre mim
 
 <p>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Obrigado por está visualizando meu perfil! 
-Me chamo Eduado Souza tenho 37 anos, casado, pai de um casal de filhos(amores da minha vida), atualmente morando no Rio de Janeiro, e sou web developer, um verdadeiro estudante da área desde 2018. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Gosto de jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p>
+Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores da minha vida), atualmente morando no Rio de Janeiro, e sou web developer, um verdadeiro estudante da área desde 2018. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Gosto de jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p>
 
 <br/><br/>
+
+## Tecnologias 
+
+<p align="center" >
+ <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="70px"/>
+ <img src="https://img.icons8.com/color/96/000000/css3.png" height="70px"/>
+ <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="70px"/>
+ <img src="https://img.icons8.com/color/96/000000/typescript.png" height="70px"/>
+ <img src="https://img.icons8.com/color/96/000000/nodejs.png" height="70px"/>
+ <img src="https://img.icons8.com/officel/80/000000/react.png" height="70px"/>
+ <img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" height="65px" />
+</p>
 
 ## Cursos <img src="assets/stubparrot.gif" height="30">
 
@@ -50,7 +63,7 @@ Name | Description | Status | Repositório
 
 <p align=center>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=EduSouza-programmer&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSouza-programmer&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSouza-programmer&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515&theme=tokyonight" />
 </p>
 
 
@@ -64,14 +77,15 @@ Name | Description | Status | Repositório
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEduSouza-programmer&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </p>
 
+<a href="https://github.com/RounakNeogy/RounakNeogy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&&show_icons=true&theme=tokyonight" alt="Rounak's GitHub Stats" />
+</a>
 
 ### Contact with me 📝
 
 
 
 <br />
-
-
 
 
 [website]: https://edusouza-programmer.github.io/
