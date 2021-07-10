@@ -5,9 +5,9 @@
 </div>
 
 
-[<img align="left" alt="www.walla.co.il" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="My site" height="30px" src="https://img-premium.flaticon.com/png/512/3316/premium/3316444.png?token=exp=1625949863~hmac=4cb5d5a2b61a72953b934214a6329744"/>][website]
+[<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="Facebook" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111342.png" />][Spotify]
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EduSouza-programmer&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>  
 
 <br/><br/><br/><br/>
@@ -32,14 +32,13 @@ Name | Description | Status | Repositório
  [<br/><p align="center" ><img alt="Imagem Rocketseat" src="https://t2.tudocdn.net/572277?w=646&h=284" width="150px"/></p>](https://rocketseat.com.br/) | Seu ecossistema para aprender e evoluir em programação. | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
  [<br/><p align="center" ><img alt="Imagem trybe" src="https://i.ibb.co/d4W2x4g/trybe.png" width="70px"/></p>](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwiqWHBhD2ARIsAPCDzanDSywMF8Tv_knmbWOo6MF7KIwvFyrkq7Kkc-jQ7xanpTJvaJ9Dyn8aAsglEALw_wcB) | A escola que te ensina a programar, a aprender e atrabalhar. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
 
-<br/><br/><br/>
-
-
+<br/><br/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="180px" width="470px" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight" height="180px" width="470px" />
 
 ## Atualmente trabalhando
+<br/>
 <img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
 
