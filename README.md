@@ -19,17 +19,17 @@
 <p>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Obrigado por está visualizando meu perfil! 
 Me chamo Eduado Souza tenho 37 anos, casado, pai de um casal de filhos(amores da minha vida!), atualmente morando no Rio de Janeiro, e sou web developer, um verdadeiro estudante da área desde 2018. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Adoro jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p>
 
-<br/><br/><br/>
+<br/><br/>
 
 ## :sparkles: Realizados <img src="assets/stubparrot.gif" height="30">
 
 <p>Na tabela abaixo você encontrar os cursos que realizei e seus repositorios centrais com os projetos 🚀.</p>
 
 
-Name | Description | Status | [Zelda](https://youtu.be/JHY0PYZXvfU)
+Name | Description | Status | Repo
 -----|-------------|--------|------
-:musical_note: [Dungeon Dance Dance](https://shiryel.itch.io/dungeon-dance-dance) | A strange dungeon where you need to dance... weird | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/dungeon-dance-dance)
- [<img alt="Imagem trybe" src="https://i.ibb.co/d4W2x4g/trybe.png" width="50px" />](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwiqWHBhD2ARIsAPCDzanDSywMF8Tv_knmbWOo6MF7KIwvFyrkq7Kkc-jQ7xanpTJvaJ9Dyn8aAsglEALw_wcB) | Attempt on creating a game with Flutter | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) [![Badge](https://img.shields.io/badge/-Published-LightSeaGreen.svg)](https://shields.io/) | [Link](https://github.com/shiryel/poligonic)
+ [<br/><p align="center" ><img alt="Imagem Rocketseat" src="https://t2.tudocdn.net/572277?w=646&h=284" width="150px"/></p>](https://rocketseat.com.br/) | Seu ecossistema para aprender e evoluir em programação. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
+ [<br/><p align="center" ><img alt="Imagem trybe" src="https://i.ibb.co/d4W2x4g/trybe.png" width="70px"/></p>](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwiqWHBhD2ARIsAPCDzanDSywMF8Tv_knmbWOo6MF7KIwvFyrkq7Kkc-jQ7xanpTJvaJ9Dyn8aAsglEALw_wcB) | A escola que te ensina a programar, a aprender e atrabalhar. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
 
 
 
