@@ -74,6 +74,6 @@ Name | Description | Status | Repositório
 
 
 
-[website]: https://racheliver.github.io
-[linkedin]: https://www.linkedin.com/in/racheli-verechzon-5343bb123/
-[Spotify]: https://open.spotify.com/user/31tnttfhh73nx44zimoaeofqyi6u
+[website]: https://edusouza-programmer.github.io/
+[linkedin]: https://www.linkedin.com/in/eduardosouzaprogrammer/
+[Spotify]: https://www.facebook.com/profile.php?id=100003755834780
