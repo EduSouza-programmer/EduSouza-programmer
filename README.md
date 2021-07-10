@@ -32,6 +32,20 @@ Name | Description | Status | Repositório
  [<br/><p align="center" ><img alt="Imagem Rocketseat" src="https://t2.tudocdn.net/572277?w=646&h=284" width="150px"/></p>](https://rocketseat.com.br/) | Seu ecossistema para aprender e evoluir em programação. | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
  [<br/><p align="center" ><img alt="Imagem trybe" src="https://i.ibb.co/d4W2x4g/trybe.png" width="70px"/></p>](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwiqWHBhD2ARIsAPCDzanDSywMF8Tv_knmbWOo6MF7KIwvFyrkq7Kkc-jQ7xanpTJvaJ9Dyn8aAsglEALw_wcB) | A escola que te ensina a programar, a aprender e atrabalhar. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
 
+<br/><br/><br/>
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="140" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="140" />
+
+## Atualmente trabalhando
+<img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
+
+
+<br/><br/>
+
+
+
 
 
 <p align=center>
@@ -56,6 +70,7 @@ Name | Description | Status | Repositório
 
 
 <br />
+
 
 
 
