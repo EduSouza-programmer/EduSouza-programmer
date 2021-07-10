@@ -28,14 +28,24 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 ## Tecnologias 
 
 <p align="center" >
- <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="65px"/>
- <img src="https://img.icons8.com/color/96/000000/css3.png" height="65px"/>
- <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="65px"/>
- <img src="https://img.icons8.com/color/96/000000/typescript.png" height="65px"/>
- <img src="https://img.icons8.com/color/96/000000/nodejs.png" height="65px"/>
- <img src="https://img.icons8.com/officel/80/000000/react.png" height="65px"/>
- <img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" height="60px" />
+ <img alt="html" src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="60px"/>
+ <img alt="css" src="https://img.icons8.com/color/96/000000/css3.png" height="60px"/>
+ <img alt="javascript" src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="60px"/>
+ <img alt="typescript" src="https://img.icons8.com/color/96/000000/typescript.png" height="60px"/>
+ <img alt="nodejs" src="https://img.icons8.com/color/96/000000/nodejs.png" height="60px"/>
+ <img alt="react" src="https://img.icons8.com/officel/80/000000/react.png" height="60px"/>
+ <img alt="storybook" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" height="55px" />
+ <img alt="jest" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" height="55px" />
+ <img alt="testing-library" src="https://testing-library.com/img/octopus-64x64.png" height="55px" />
+ <img alt="cypress" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" height="55px" />
+ <img alt="eslint" src="https://www.pinclipart.com/picdir/middle/280-2800377_eslint-vector-clipart.png" height="55px" />
+ <img alt="prettier" src="https://camo.githubusercontent.com/dff60c3322fc0645c42441b218ce565be5d14b528ac4d79247baa547b4977d1f/68747470733a2f2f70726574746965722e696f2f69636f6e2e706e67" height="55px" />
+ <img alt="strapi" src="https://styles.redditmedia.com/t5_ov268/styles/communityIcon_g932q0i3ujx61.jpg?width=256&s=03983e19ff72fdc35b8fd17bdeb838e30ae256a5" height="55px" />
+ <img alt="bash-script" src="https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_148-512.png" height="55px" />
 </p>
+
+
+
 
 ## Cursos <img src="assets/stubparrot.gif" height="30">
 
