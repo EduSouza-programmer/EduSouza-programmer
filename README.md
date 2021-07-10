@@ -35,14 +35,15 @@ Name | Description | Status | Repositório
 <br/><br/><br/>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="140" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="140" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="180px" width="470px" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight" height="180px" width="470px" />
 
 ## Atualmente trabalhando
 <img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
 
-<br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 
 
