@@ -11,11 +11,14 @@
 [<img align="left" alt="Facebook" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111342.png" />][Spotify]
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EduSouza-programmer&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>  
 
-<br/><br/>
+<br/><br/><br/>
 
-<img align="right" width="400px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+  <img align="right" width="400px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
  ## Sobre mim
+ 
+
 
 <p>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Obrigado por está visualizando meu perfil! 
 Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores da minha vida), atualmente morando no Rio de Janeiro, e sou web developer, um verdadeiro estudante da área desde 2018. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Gosto de jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p>
