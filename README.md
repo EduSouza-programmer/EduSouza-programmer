@@ -55,7 +55,9 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 <p align="center">
  <img alt="VS Code"  src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/visualstudio-plain.svg" height="50px" />
  <img alt="Ubuntu" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" height="50px" />
- <img alt="windows" src="https://img.icons8.com/color/96/000000/windows-10.png" height="50px"/>                                                                    <img alt="Git"  src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" height="50px" />                                          <img alt="terminal" src="https://img.icons8.com/dusk/64/000000/console.png" height="55px"/>
+ <img alt="windows" src="https://img.icons8.com/color/96/000000/windows-10.png" height="50px"/>                                                                    <img alt="npm" src="https://img.icons8.com/color/96/000000/npm.png" height="50px"/>
+ <img alt="yarn" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/yarn_icon_130775.png" height="55px"/>
+ <img alt="Git"  src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" height="50px" />                                        <img alt="terminal" src="https://img.icons8.com/dusk/64/000000/console.png" height="55px"/>
  <img alt="github" src="https://img.icons8.com/cute-clipart/64/000000/github.png" height="55px"/>
  <img alt="figma" src="https://img.icons8.com/color/96/000000/figma--v1.png" height="55px"/>
  <img alt="netlify" src="https://www.saashub.com/images/app/service_logos/6/c0579f97bf3c/large.png?1527064814" height="50px"  />
