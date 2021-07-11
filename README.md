@@ -63,15 +63,13 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
     alt="Ubuntu"
     height="55px"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
+    <img src="https://img.icons8.com/color/96/000000/windows-10.png" height="60px/>
     <img
     alt="Git"
     height="55px"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" />
    <img alt="terminal" src="https://img.icons8.com/dusk/64/000000/console.png" height="60px"/>
-   <img
-    alt="Github"
-    height="55px"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/github-original.svg" />
+   <img src="https://img.icons8.com/cute-clipart/64/000000/github.png" height="60px"/>
   <img 
     alt="Slack"
     height="55px"
