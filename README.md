@@ -25,42 +25,42 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 ## Tecnologias 
 
 <p align="center" >
- <img alt="html" src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="60px"/>
- <img alt="css" src="https://img.icons8.com/color/96/000000/css3.png" height="60px"/>
- <img alt="javascript" src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="60px"/>
- <img alt="typescript" src="https://img.icons8.com/color/96/000000/typescript.png" height="60px"/>
- <img alt="nodejs" src="https://img.icons8.com/color/96/000000/nodejs.png" height="60px"/>
- <img alt="react" src="https://img.icons8.com/officel/80/000000/react.png" height="60px"/>
- <img alt="storybook" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" height="55px" />
- <img alt="jest" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" height="55px" />
- <img alt="testing-library" src="https://testing-library.com/img/octopus-64x64.png" height="55px" />
- <img alt="cypress" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" height="55px" />
- <img alt="eslint" src="https://www.pinclipart.com/picdir/middle/280-2800377_eslint-vector-clipart.png" height="55px" />
- <img alt="prettier" src="https://camo.githubusercontent.com/dff60c3322fc0645c42441b218ce565be5d14b528ac4d79247baa547b4977d1f/68747470733a2f2f70726574746965722e696f2f69636f6e2e706e67" height="55px" />
- <img alt="babel" src="https://lh3.googleusercontent.com/proxy/7113pmC3_pCk_M4UjOGTqO7PkYzJ0k6bkSgVdETXbFUjjpIePfpZYn4JBMWWA7u0NfA6LDZ44NAnhcTgyFMWkCnC-VRJdTyAYesZ8WqOMuYbb0nwzHwhoE0MYANZvmnvQMex2E_LlA" height="55px" />
- <img alt="strapi" src="https://styles.redditmedia.com/t5_ov268/styles/communityIcon_g932q0i3ujx61.jpg?width=256&s=03983e19ff72fdc35b8fd17bdeb838e30ae256a5" height="55px" />
- <img alt="bash-script" src="https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_148-512.png" height="55px" />
- <img alt="webpack" src="https://camo.githubusercontent.com/14934db72f930993901fc8d760969e9eb21f670edcf9f68286ea3db53d9bc0c7/68747470733a2f2f626c6f672e6e656f6c796e6b2e66722f77702d636f6e74656e742f75706c6f6164732f323031392f31312f466f726d61742d626c6f672e706e67" height="55px" />
- <img alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  height="55px"/>
- <img alt="postgreesql" src="https://img.icons8.com/color/96/000000/postgreesql.png" height="60px" />
+ <img alt="html" src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="55px"/>
+ <img alt="css" src="https://img.icons8.com/color/96/000000/css3.png" height="55px"/>
+ <img alt="javascript" src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="55px"/>
+ <img alt="typescript" src="https://img.icons8.com/color/96/000000/typescript.png" height="55px"/>
+ <img alt="nodejs" src="https://img.icons8.com/color/96/000000/nodejs.png" height="55px"/>
+ <img alt="react" src="https://img.icons8.com/officel/80/000000/react.png" height="55px"/>
+ <img alt="storybook" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" height="50px" />
+ <img alt="nextjs" src="https://boringowl.io/wp-content/uploads/2020/03/next-js-framework-300x300.jpg" height="50px" />
+ <img alt="material-ui" src="https://img.icons8.com/color/96/000000/material-ui.png" height="55px"/>
+ <img alt="jest" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" height="50px" />
+ <img alt="testing-library" src="https://testing-library.com/img/octopus-64x64.png" height="50px" />
+ <img alt="cypress" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" height="50px" />
+ <img alt="eslint" src="https://www.pinclipart.com/picdir/middle/280-2800377_eslint-vector-clipart.png" height="50px" />
+ <img alt="prettier" src="https://camo.githubusercontent.com/dff60c3322fc0645c42441b218ce565be5d14b528ac4d79247baa547b4977d1f/68747470733a2f2f70726574746965722e696f2f69636f6e2e706e67" height="50px" />
+ <img alt="babel" src="https://lh3.googleusercontent.com/proxy/7113pmC3_pCk_M4UjOGTqO7PkYzJ0k6bkSgVdETXbFUjjpIePfpZYn4JBMWWA7u0NfA6LDZ44NAnhcTgyFMWkCnC-VRJdTyAYesZ8WqOMuYbb0nwzHwhoE0MYANZvmnvQMex2E_LlA" height="50px" />
+ <img alt="strapi" src="https://styles.redditmedia.com/t5_ov268/styles/communityIcon_g932q0i3ujx61.jpg?width=256&s=03983e19ff72fdc35b8fd17bdeb838e30ae256a5" height="50px" />
+ <img alt="bash-script" src="https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_148-512.png" height="50px" />
+ <img alt="webpack" src="https://camo.githubusercontent.com/14934db72f930993901fc8d760969e9eb21f670edcf9f68286ea3db53d9bc0c7/68747470733a2f2f626c6f672e6e656f6c796e6b2e66722f77702d636f6e74656e742f75706c6f6164732f323031392f31312f466f726d61742d626c6f672e706e67" height="50px" />
+ <img alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  height="50px"/>
+ <img alt="postgreesql" src="https://img.icons8.com/color/96/000000/postgreesql.png" height="55px" />
  <img alt="MySql" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/mysql-original.svg" />
- <img alt="handlebars" src="https://www.seekpng.com/png/small/109-1090160_in-this-post-ill-outline-why-building-templates.png" height="55px" /> 
+ <img alt="handlebars" src="https://www.seekpng.com/png/small/109-1090160_in-this-post-ill-outline-why-building-templates.png" height="50px" /> 
 </p>
 
 ## Ferramentas
 
 <p align="center">
- <img alt="VS Code" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/visualstudio-plain.svg" />
- <img alt="Ubuntu"height="55px"src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
- <img alt="windows" src="https://img.icons8.com/color/96/000000/windows-10.png" height="60px"/>                                                                    <img alt="Git" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" />                                          <img alt="terminal" src="https://img.icons8.com/dusk/64/000000/console.png" height="60px"/>
- <img alt="github" src="https://img.icons8.com/cute-clipart/64/000000/github.png" height="60px"/>
- <img alt="nextjs" src="https://boringowl.io/wp-content/uploads/2020/03/next-js-framework-300x300.jpg" height="55px" />
- <img alt="material-ui" src="https://img.icons8.com/color/96/000000/material-ui.png" height="60px"/>
- <img alt="figma" src="https://img.icons8.com/color/96/000000/figma--v1.png" height="60px"/>
- <img alt="netlify" src="https://www.saashub.com/images/app/service_logos/6/c0579f97bf3c/large.png?1527064814" height="55px"  />
- <img alt="heroku" src="https://img.icons8.com/color/96/000000/heroku.png" height="60px"/>
- <img alt="cloudinary" src="https://cloudinary-res.cloudinary.com/image/upload/dpr_2.0,c_scale,f_auto,q_auto,w_156/cloudinary_logo_for_white_bg.svg" height="30px" />
- <img alt="Slack" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/slack-original.svg" />
+ <img alt="VS Code"  src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/visualstudio-plain.svg" height="50px" />
+ <img alt="Ubuntu" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" height="50px" />
+ <img alt="windows" src="https://img.icons8.com/color/96/000000/windows-10.png" height="50px"/>                                                                    <img alt="Git"  src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" height="50px" />                                          <img alt="terminal" src="https://img.icons8.com/dusk/64/000000/console.png" height="55px"/>
+ <img alt="github" src="https://img.icons8.com/cute-clipart/64/000000/github.png" height="55px"/>
+ <img alt="figma" src="https://img.icons8.com/color/96/000000/figma--v1.png" height="55px"/>
+ <img alt="netlify" src="https://www.saashub.com/images/app/service_logos/6/c0579f97bf3c/large.png?1527064814" height="50px"  />
+ <img alt="heroku" src="https://img.icons8.com/color/96/000000/heroku.png" height="55px"/>
+ <img alt="cloudinary" src="https://cloudinary-res.cloudinary.com/image/upload/dpr_2.0,c_scale,f_auto,q_auto,w_156/cloudinary_logo_for_white_bg.svg" height="25px" />
+ <img alt="Slack"  src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/slack-original.svg" height="50px" />
 </p>
 
 <br/>
