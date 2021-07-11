@@ -53,8 +53,14 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
  <img alt="Ubuntu"height="55px"src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
  <img alt="windows" src="https://img.icons8.com/color/96/000000/windows-10.png" height="60px"/>                                                                    <img alt="Git" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" />                                          <img alt="terminal" src="https://img.icons8.com/dusk/64/000000/console.png" height="60px"/>
  <img alt="github" src="https://img.icons8.com/cute-clipart/64/000000/github.png" height="60px"/>
- <img alt="figma" src="https://img.icons8.com/color/96/000000/figma--v1.png" height="60px"/>                                                                        <img alt="Slack" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/slack-original.svg" />
+ <img alt="figma" src="https://img.icons8.com/color/96/000000/figma--v1.png" height="60px"/>
+ <img alt="netlify" src="https://www.saashub.com/images/app/service_logos/6/c0579f97bf3c/large.png?1527064814" height="55px"  />
+ <img alt="heroku" src="https://img.icons8.com/color/96/000000/heroku.png" height="60px"/>
+ <img alt="cloudinary" src="https://cloudinary-res.cloudinary.com/image/upload/dpr_2.0,c_scale,f_auto,q_auto,w_156/cloudinary_logo_for_white_bg.svg" height="30px" />
+ <img alt="Slack" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/slack-original.svg" />
 </p>
+
+<br/>
 
 ## Cursos <img src="assets/stubparrot.gif" height="30">
 
