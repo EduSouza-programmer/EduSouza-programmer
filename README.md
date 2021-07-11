@@ -41,6 +41,7 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
  <img alt="strapi" src="https://styles.redditmedia.com/t5_ov268/styles/communityIcon_g932q0i3ujx61.jpg?width=256&s=03983e19ff72fdc35b8fd17bdeb838e30ae256a5" height="55px" />
  <img alt="bash-script" src="https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_148-512.png" height="55px" />
  <img alt="webpack" src="https://camo.githubusercontent.com/14934db72f930993901fc8d760969e9eb21f670edcf9f68286ea3db53d9bc0c7/68747470733a2f2f626c6f672e6e656f6c796e6b2e66722f77702d636f6e74656e742f75706c6f6164732f323031392f31312f466f726d61742d626c6f672e706e67" height="55px" />
+ <img alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  height="55px"/>
  <img alt="postgreesql" src="https://img.icons8.com/color/96/000000/postgreesql.png" height="60px" />
  <img alt="MySql" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/mysql-original.svg" />
  <img alt="handlebars" src="https://www.seekpng.com/png/small/109-1090160_in-this-post-ill-outline-why-building-templates.png" height="55px" /> 
@@ -66,14 +67,13 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 
 <p>Na tabela abaixo você encontrar os cursos que realizei ou em andamento e os links dos seus repositorios com exercícios e projetos 🚀.</p>
 
-
 Name | Description | Status | Repositório
 -----|-------------|--------|------
  [<br/><p align="center" ><img alt="Imagem Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLR_SyZfBGCaEAnxq60KzGD6oWt0uQK5NozzslXs=s88-c-k-c0x00ffffff-no-rj" width="70px"/></p>](https://www.udemy.com/course/react-avancado/) | Aprenda a criar um e-commerce real do zero, indo do backend ao frontend até o deploy para produçao! | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
  [<br/><p align="center" ><img alt="Imagem Rocketseat" src="https://t2.tudocdn.net/572277?w=646&h=284" width="150px"/></p>](https://rocketseat.com.br/) | Seu ecossistema para aprender e evoluir em programação. | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
  [<br/><p align="center" ><img alt="Imagem trybe" src="https://i.ibb.co/d4W2x4g/trybe.png" width="70px"/></p>](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwiqWHBhD2ARIsAPCDzanDSywMF8Tv_knmbWOo6MF7KIwvFyrkq7Kkc-jQ7xanpTJvaJ9Dyn8aAsglEALw_wcB) | A escola que te ensina a programar, a aprender e atrabalhar. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
 
-<br/><br/>
+<br/><br/><br/>
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="180px" width="470px" />](https://github.com/EduSouza-programmer/won_games_client)
 [<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight" height="180px" width="470px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza)
