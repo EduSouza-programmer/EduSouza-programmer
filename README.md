@@ -6,12 +6,15 @@
 [<img align="left" alt="My site" height="30px" src="https://img-premium.flaticon.com/png/512/3316/premium/3316444.png?token=exp=1625949863~hmac=4cb5d5a2b61a72953b934214a6329744"/>][website]
 [<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="Facebook" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111342.png" />][Spotify]
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EduSouza-programmer&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>  
+<p align=right>
+  <img src="https://badges.pufler.dev/visits/EduSouza-programmer/EduSouza-programmer?color=black&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=EduSouza-programmer" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEduSouza-programmer&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+</p>
+  
+<br/><br/>
 
-<br/><br/><br/>
-
-
-  <img align="right" width="400px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" width="400px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
  ## Sobre mim
  
@@ -101,11 +104,7 @@ Name | Description | Status | Repositório
   <img src="https://github-profile-trophy.vercel.app/?username=EduSouza-programmer&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
-<p align=center>
-  <img src="https://badges.pufler.dev/visits/EduSouza-programmer/EduSouza-programmer?color=black&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=EduSouza-programmer" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEduSouza-programmer&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-</p>
+
 
 <a href="https://github.com/RounakNeogy/RounakNeogy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&&show_icons=true&theme=tokyonight" alt="Rounak's GitHub Stats" />
@@ -113,7 +112,7 @@ Name | Description | Status | Repositório
 
 ### Contact with me 📝
 
-
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EduSouza-programmer&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 <br />
 
