@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 <h1 title="hehehe"> Hey <img src="assets/space-cat.webp" height="40">, Eduardo Souza!</h1>
 </div>
@@ -23,7 +20,7 @@
 <p>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Obrigado por está visualizando meu perfil! 
 Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores da minha vida), atualmente morando no Rio de Janeiro, e sou web developer, um verdadeiro estudante da área desde 2018. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Vícios em jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p>
 
-<br/><br/>
+<br/><br/><br/>
 
 ## Tecnologias 
 
@@ -44,37 +41,19 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
  <img alt="strapi" src="https://styles.redditmedia.com/t5_ov268/styles/communityIcon_g932q0i3ujx61.jpg?width=256&s=03983e19ff72fdc35b8fd17bdeb838e30ae256a5" height="55px" />
  <img alt="bash-script" src="https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_148-512.png" height="55px" />
  <img alt="webpack" src="https://camo.githubusercontent.com/14934db72f930993901fc8d760969e9eb21f670edcf9f68286ea3db53d9bc0c7/68747470733a2f2f626c6f672e6e656f6c796e6b2e66722f77702d636f6e74656e742f75706c6f6164732f323031392f31312f466f726d61742d626c6f672e706e67" height="55px" />
- <img 
-    alt="MySql"
-    height="55px"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/mysql-original.svg" />
+ <img alt="postgreesql" src="https://img.icons8.com/color/96/000000/postgreesql.png" height="60px" />
+ <img alt="MySql" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/mysql-original.svg" />
  <img alt="handlebars" src="https://www.seekpng.com/png/small/109-1090160_in-this-post-ill-outline-why-building-templates.png" height="55px" /> 
 </p>
-
 
 ## Ferramentas
 
 <p align="center">
- <img 
-    alt="VS Code"
-    height="55px"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/visualstudio-plain.svg" />
-  <img 
-    alt="Ubuntu"
-    height="55px"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
-    <img src="https://img.icons8.com/color/96/000000/windows-10.png" height="60px/>
-    <img
-    alt="Git"
-    height="55px"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" />
-   <img alt="terminal" src="https://img.icons8.com/dusk/64/000000/console.png" height="60px"/>
-   <img src="https://img.icons8.com/cute-clipart/64/000000/github.png" height="60px"/>
-  <img 
-    alt="Slack"
-    height="55px"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/slack-original.svg" />
-
+ <img alt="VS Code" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/visualstudio-plain.svg" />
+ <img alt="Ubuntu"height="55px"src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
+ <img alt="windows" src="https://img.icons8.com/color/96/000000/windows-10.png" height="60px"/>                                                                    <img alt="Git" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" />                                          <img alt="terminal" src="https://img.icons8.com/dusk/64/000000/console.png" height="60px"/>
+ <img alt="github" src="https://img.icons8.com/cute-clipart/64/000000/github.png" height="60px"/>
+ <img alt="figma" src="https://img.icons8.com/color/96/000000/figma--v1.png" height="60px"/>                                                                        <img alt="Slack" height="55px" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/slack-original.svg" />
 </p>
 
 ## Cursos <img src="assets/stubparrot.gif" height="30">
