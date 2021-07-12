@@ -40,7 +40,7 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
  <img alt="cypress" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" height="50px" />
  <img alt="eslint" src="https://www.pinclipart.com/picdir/middle/280-2800377_eslint-vector-clipart.png" height="50px" />
  <img alt="prettier" src="https://camo.githubusercontent.com/dff60c3322fc0645c42441b218ce565be5d14b528ac4d79247baa547b4977d1f/68747470733a2f2f70726574746965722e696f2f69636f6e2e706e67" height="50px" />
- <img alt="babel" src="https://img.icons8.com/dusk/128/000000/babel.png" height="55px" />
+ <img alt="babel" src="https://img.icons8.com/dusk/128/000000/babel.png" height="50px" />
  <img alt="strapi" src="https://styles.redditmedia.com/t5_ov268/styles/communityIcon_g932q0i3ujx61.jpg?width=256&s=03983e19ff72fdc35b8fd17bdeb838e30ae256a5" height="50px" />
  <img alt="bash-script" src="https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_148-512.png" height="50px" />
  <img alt="webpack" src="https://camo.githubusercontent.com/14934db72f930993901fc8d760969e9eb21f670edcf9f68286ea3db53d9bc0c7/68747470733a2f2f626c6f672e6e656f6c796e6b2e66722f77702d636f6e74656e742f75706c6f6164732f323031392f31312f466f726d61742d626c6f672e706e67" height="50px" />
