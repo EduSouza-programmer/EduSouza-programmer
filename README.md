@@ -67,7 +67,7 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
  <img alt="Slack"  src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/slack-original.svg" height="50px" />
 </p>
 
-<br/>
+<br/><br/>
 
 ## Cursos <img src="assets/stubparrot.gif" height="30">
 
@@ -105,7 +105,7 @@ Name | Description | Status | repository
 
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
