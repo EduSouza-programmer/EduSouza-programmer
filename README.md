@@ -95,7 +95,7 @@ Name | Description | Status | repository
   
 [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="180px" width="300px" />](https://github.com/EduSouza-programmer/won_games_client)&nbsp;
 
- <img height="160px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
+ <img height="140px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
 [<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="180px" width="340px" />](https://github.com/EduSouza-programmer/won_games_client) 
 
