@@ -90,7 +90,7 @@ Name | Description | Status | repository
 
 ## Atualmente trabalhando
 
-<div align=center>
+<div align=left>
   
 [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight&bg_color=00000000&border_radius=50%" height="170px" width="250px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza)&nbsp;&nbsp;
 
