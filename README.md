@@ -119,7 +119,7 @@ Name | Description | Status | repository
   
 </p>
 
-<br/>
+<br/><br/>
 
 <div align=center>
   <p>Feito com &hearts; por <em>Edu Souza, 2021.</em></p>
