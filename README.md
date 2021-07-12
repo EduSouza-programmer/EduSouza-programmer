@@ -92,13 +92,13 @@ Name | Description | Status | repository
 
 <div align=center>
   
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="180px" width="260px" />](https://github.com/EduSouza-programmer/won_games_client)&nbsp;
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight&hide_border=true&bg_color=00000000" height="180px" width="260px" />](https://github.com/EduSouza-programmer/won_games_client)&nbsp;
 
  <img height="140px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
-[<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="180px" width="300px" />](https://github.com/EduSouza-programmer/won_games_client) 
+[<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight&hide_border=true&bg_color=00000000" height="180px" width="300px" />](https://github.com/EduSouza-programmer/won_games_client) 
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight" height="180px" width="400px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight&hide_border=true&bg_color=00000000" height="180px" width="400px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza)
   
 </div>
 
