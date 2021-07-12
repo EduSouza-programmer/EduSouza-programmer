@@ -95,7 +95,7 @@ Name | Description | Status | repository
   
 [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight&bg_color=00000000&border_radius=50%" height="170px" width="250px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza)&nbsp;
 
-<img height="150px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
+<img height="140px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
 [<img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight&bg_color=00000000&border_radius=50%" height="180px" width="300px" />](https://github.com/EduSouza-programmer/won_games_client) 
 
