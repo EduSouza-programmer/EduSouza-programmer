@@ -119,6 +119,12 @@ Name | Description | Status | repository
   
 </p>
 
+<br/>
+
+<div align=center>
+  <p>Feito com &hearts; por <em>Edu Souza, 2021.</em></p>
+</div>
+
 [website]: https://edusouza-programmer.github.io/
 [linkedin]: https://www.linkedin.com/in/eduardosouzaprogrammer/
 [Spotify]: https://www.facebook.com/profile.php?id=100003755834780
