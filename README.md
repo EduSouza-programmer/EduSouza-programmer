@@ -7,11 +7,11 @@
 [<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="Facebook" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111342.png" />][Spotify]
 <p align=right>
-  <img src="https://badges.pufler.dev/visits/EduSouza-programmer/EduSouza-programmer?color=black&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=EduSouza-programmer" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEduSouza-programmer&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  <img src="https://badges.pufler.dev/visits/EduSouza-programmer/EduSouza-programmer?color=4C6CA6&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=EduSouza-programmer&color=green" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEduSouza-programmer&count_bg=%239472BF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </p>
-  
+
 <br/><br/>
 
 <img align="right" width="400px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -92,7 +92,7 @@ Name | Description | Status | repository
 
 <div align=center>
   
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight&bg_color=00000000&border_radius=50%" height="170px" width="250px" />](https://github.com/EduSouza-programmer/won_games_client)&nbsp;
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight&bg_color=00000000&border_radius=50%" height="170px" width="250px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza)&nbsp;
 
  <img height="145px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
