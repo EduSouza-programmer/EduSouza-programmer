@@ -102,8 +102,6 @@ Name | Description | Status | repository
   
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 ## Github Stats
 <br/>
 <p align=center>
@@ -117,11 +115,6 @@ Name | Description | Status | repository
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EduSouza-programmer&theme=react-dark&hide_border=true&color=4C6CA6&point=9472BF&line=42978D)
   
 </p>
-
-
-
-
-
 
 [website]: https://edusouza-programmer.github.io/
 [linkedin]: https://www.linkedin.com/in/eduardosouzaprogrammer/
