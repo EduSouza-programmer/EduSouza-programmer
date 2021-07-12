@@ -105,7 +105,7 @@ Name | Description | Status | repository
 <br/>
 
 ## Github Stats
-<br/>
+
 <p align=center>
   
   <img  height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSouza-programmer&layout=compact&hide=Makefile&bg_color=00000000&theme=tokyonight&hide_border=true&text_color=" />
