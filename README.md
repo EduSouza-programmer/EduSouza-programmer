@@ -1,3 +1,4 @@
+
 <div align="center">
 <h1 title="hehehe"> Hey <img src="assets/space-cat.webp" height="40">, Eduardo Souza!</h1>
 </div>
@@ -90,12 +91,17 @@ Name | Description | Status | repository
 
 ## Atualmente trabalhando
 
-<img align="left" src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
+<div align=center>
+  
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="180px" width="300px" />](https://github.com/EduSouza-programmer/won_games_client)&nbsp;
 
+ <img height="160px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight" height="180px" width="450px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza)
+[<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="180px" width="340px" />](https://github.com/EduSouza-programmer/won_games_client) 
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight" height="180px" width="450px" />](https://github.com/EduSouza-programmer/won_games_client)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight" height="180px" width="400px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza)
+  
+</div>
 
 
 
