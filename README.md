@@ -1,4 +1,29 @@
 
+## Github Stats
+<br/>
+<p align=center>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=EduSouza-programmer&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSouza-programmer&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515&theme=tokyonight" />
+   <img height="100px" src="https://github-profile-trophy.vercel.app/?username=EduSouza-programmer&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EduSouza-programmer)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align=center>
+   
+</p>
+
+
+
+
+
+
+
+
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <div align="center">
 <h1 title="hehehe"> Hey <img src="assets/space-cat.webp" height="40">, Eduardo Souza!</h1>
 </div>
@@ -19,7 +44,7 @@
  
  ## Sobre mim
 
-<p>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Obrigado por está visualizando meu perfil! 
+<p>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Obrigado por visualizar meu perfil! 
 Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores da minha vida), atualmente morando no Rio de Janeiro, e sou web developer, um verdadeiro estudante da área desde 2018. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Vícios em jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p>
 
 <br/><br/><br/>
@@ -111,27 +136,6 @@ Name | Description | Status | repository
 
 
 
-<p align=center>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=EduSouza-programmer&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSouza-programmer&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515&theme=tokyonight" />
-</p>
-
-
-<p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=EduSouza-programmer&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</p>
-
-
-
-<a href="https://github.com/RounakNeogy/RounakNeogy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&&show_icons=true&theme=tokyonight" alt="Rounak's GitHub Stats" />
-</a>
-
-### Contact with me 📝
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EduSouza-programmer&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-<br />
 
 
 [website]: https://edusouza-programmer.github.io/
