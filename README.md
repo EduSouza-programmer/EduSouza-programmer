@@ -1,29 +1,3 @@
-
-## Github Stats
-<br/>
-<p align=center>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=EduSouza-programmer&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSouza-programmer&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515&theme=tokyonight" />
-   <img height="100px" src="https://github-profile-trophy.vercel.app/?username=EduSouza-programmer&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</p>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EduSouza-programmer)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p align=center>
-   
-</p>
-
-
-
-
-
-
-
-
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 <div align="center">
 <h1 title="hehehe"> Hey <img src="assets/space-cat.webp" height="40">, Eduardo Souza!</h1>
 </div>
@@ -128,10 +102,21 @@ Name | Description | Status | repository
   
 </div>
 
-
-
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+## Github Stats
+<br/>
+<p align=center>
+  
+  <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSouza-programmer&layout=compact&hide=Makefile&bg_color=00000000&theme=tokyonight&hide_border=true&text_color=" />
+  <br/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=EduSouza-programmer&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&hide_border=true&bg_color=00000000" />
+  
+   <img  height="220px" src="https://github-profile-trophy.vercel.app/?username=EduSouza-programmer&theme=nord&no-bg=true&column=3&row=2&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+ 
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EduSouza-programmer&theme=react-dark&hide_border=true&color=4C6CA6&point=9472BF&line=42978D)
+  
+</p>
 
 
 
