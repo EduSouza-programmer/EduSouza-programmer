@@ -70,7 +70,7 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 
 ## Cursos <img src="assets/stubparrot.gif" height="30">
 
-<p>Na tabela abaixo você encontrar os cursos que realizei ou em andamento e os links dos seus repositorios com exercícios e projetos 🚀.</p>
+<p>Na tabela abaixo você encontra os cursos em ordem cronologica dos mais novos aos mais antigos que realizei ou que estão em andamento, tal como também os links dos seus repositorios com exercícios e projetos 🚀.</p>
 
 Name | Description | Status | repository
 :-----:|:-------------|:--------:|:------:
