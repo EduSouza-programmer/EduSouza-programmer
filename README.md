@@ -111,7 +111,7 @@ Name | Description | Status | repository
   
   <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSouza-programmer&layout=compact&hide=Makefile&bg_color=00000000&theme=tokyonight&hide_border=true&text_color=" />
   <br/>
-  <img height="185px" src="https://github-readme-stats.vercel.app/api?username=EduSouza-programmer&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&hide_border=true&bg_color=00000000" />
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=EduSouza-programmer&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&hide_border=true&bg_color=00000000" />
   
    <img  height="190px" src="https://github-profile-trophy.vercel.app/?username=EduSouza-programmer&theme=nord&no-bg=true&column=3&row=2&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
  
