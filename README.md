@@ -19,7 +19,7 @@
  ## Sobre mim
 
 <p>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Obrigado por visualizar meu perfil! 
-Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores da minha vida), atualmente morando no Rio de Janeiro, e sou web developer, um verdadeiro estudante da área desde 2018. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Vícios em jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p>
+Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores da minha vida), atualmente morando no Rio de Janeiro e trabalho como web developer, um verdadeiro estudante da área desde 2018. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Vícios em jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p>
 
 <br/><br/><br/>
 
@@ -93,7 +93,7 @@ Name | Description | Status | repository
 <div align=left>
  
   
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight&bg_color=00000000&border_radius=50%" height="170px" width="250px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza)&nbsp;
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=EduSouza-programmer&theme=tokyonight&bg_color=00000000&border_radius=50%" height="170px" width="250px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza)&nbsp;
 
 <img height="140px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
