@@ -26,6 +26,7 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 
 <br/><br/><br/>
 
+
 ## Tecnologias 
 
 <p align="center" >
@@ -35,6 +36,7 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
  <img alt="typescript" src="https://img.icons8.com/color/96/000000/typescript.png" height="55px"/>
  <img alt="nodejs" src="https://img.icons8.com/color/96/000000/nodejs.png" height="55px"/>
  <img alt="react" src="https://img.icons8.com/officel/80/000000/react.png" height="55px"/>
+ <img alt="styled-component" src="https://styled-components.com/logo.png" height="50px"/>
  <img alt="storybook" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" height="50px" />
  <img alt="nextjs" src="https://boringowl.io/wp-content/uploads/2020/03/next-js-framework-300x300.jpg" height="50px" />
  <img alt="material-ui" src="https://img.icons8.com/color/96/000000/material-ui.png" height="55px"/>
