@@ -73,6 +73,17 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 
 <br/><br/>
 
+
+## Processos seletivos 
+
+<p>Na tabela abaixo você encontra os processos seletivos que participei em ordem cronologica dos mais novos aos mais antigos, infelizmente meu desempenho não foi satisfatório, mas deixo registrado minha experiência e pontos que melhorei :+1:.</p>
+
+Name | Description  | repository
+:-----:|:---------- |:------:
+[<img alt="Zapt" src="https://raw.githubusercontent.com/agraluca/desafio-zapt/main/.github/logo.png" width="50px"/>](https://www.udemy.com/course/react-avancado/) | A Zapt é uma empresa e-commerce social, básicamente você junta seus amigos para comprar com desconto!  | [Link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza)
+
+<br/><br/>
+
 ## Cursos <img src="assets/stubparrot.gif" height="30">
 
 <p>Na tabela abaixo você encontra os cursos em ordem cronologica dos mais novos aos mais antigos que realizei ou que estão em andamento, tal como também os links dos seus repositorios com exercícios e projetos 🚀.</p>
