@@ -80,7 +80,7 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 
 Name | Description  | repository
 :-----:|:---------- |:------:
-[<img alt="Zapt" src="https://raw.githubusercontent.com/agraluca/desafio-zapt/main/.github/logo.png" width="50px"/>](https://www.udemy.com/course/react-avancado/) | A Zapt é uma empresa e-commerce social, básicamente você junta seus amigos para comprar com desconto!  | [Link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza)
+[<img alt="Zapt" src="https://raw.githubusercontent.com/agraluca/desafio-zapt/main/.github/logo.png" width="50px"/>](https://www.udemy.com/course/react-avancado/) | A Zapt é uma empresa e-commerce social, com ela você pode junta seus amigos para comprar com desconto!  | [Link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza)
 
 <br/><br/>
 
