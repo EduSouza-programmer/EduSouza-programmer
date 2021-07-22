@@ -3,7 +3,7 @@
 </div>
 
 
-[<img align="left" alt="My site" height="30px" src="https://img-premium.flaticon.com/png/512/3316/premium/3316444.png?token=exp=1625949863~hmac=4cb5d5a2b61a72953b934214a6329744"/>][website]
+[<img align="left" alt="My site" height="30px" src="https://img.icons8.com/doodle/48/000000/code-file.png"/>][website]
 [<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="Facebook" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111342.png" />][Spotify]
 <p align=right>
