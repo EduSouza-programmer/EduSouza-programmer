@@ -3,7 +3,9 @@
 </div>
 
 
-[<img align="left" alt="My site" height="30px" src="https://img-premium.flaticon.com/png/512/3316/premium/3316444.png?token=exp=1625949863~hmac=4cb5d5a2b61a72953b934214a6329744"/>][website]
+
+
+[<img align="left" alt="My site" height="30px" src="https://img.icons8.com/doodle/48/000000/code-file.png"/>][website]
 [<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="Facebook" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111342.png" />][Spotify]
 <p align=right>
@@ -12,7 +14,6 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEduSouza-programmer&count_bg=%239472BF&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EduSouza-programmer/EduSouza-programmer">
 </p>
-
 
 
 <br/><br/>
@@ -81,7 +82,7 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 
 Name | Description  | repository
 :-----:|:---------- |:------:
-[<img alt="Zapt" src="https://raw.githubusercontent.com/agraluca/desafio-zapt/main/.github/logo.png" width="50px"/>](https://www.udemy.com/course/react-avancado/) | A Zapt é uma empresa e-commerce social, básicamente você junta seus amigos para comprar com desconto!  | [Link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza)
+[<img alt="Zapt" src="https://raw.githubusercontent.com/agraluca/desafio-zapt/main/.github/logo.png" width="50px"/>](https://www.udemy.com/course/react-avancado/) | A Zapt é uma empresa e-commerce social, com ela você pode junta seus amigos para comprar com desconto!  | [Link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza)
 
 <br/><br/>
 
@@ -94,7 +95,7 @@ Name | Description | Status | repository
 [<img alt="Imagem Willian Justen" src="https://yt3.ggpht.com/ytc/AKedOLR_SyZfBGCaEAnxq60KzGD6oWt0uQK5NozzslXs=s88-c-k-c0x00ffffff-no-rj" width="50px"/>](https://www.udemy.com/course/react-avancado/) | <h5>Willian Justen</h5>Aprenda a criar um e-commerce real do zero, indo do backend ao frontend até o deploy para produçao! | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/repo_central_willian_justen)
 [<img alt="Imagem Rocketseat" src="https://cdn-images-1.medium.com/max/1200/1*TkXVfLTwsHdwpUEjGzdi9w.jpeg" width="50px"/>](https://rocketseat.com.br/) | <h5>Rocketseat</h5>Seu ecossistema para aprender e evoluir em programação. | [![Badge](https://img.shields.io/badge/Status-Unfinished-red.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/repo_central_rocketseat)
 [<img alt="Imagem trybe" src="https://i.ibb.co/d4W2x4g/trybe.png" width="50px"/>](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwiqWHBhD2ARIsAPCDzanDSywMF8Tv_knmbWOo6MF7KIwvFyrkq7Kkc-jQ7xanpTJvaJ9Dyn8aAsglEALw_wcB) | <h5>Trybe</h5>A escola que te ensina a programar, a aprender e atrabalhar. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io)
-[<img alt="Imagem Origamid" src="https://scontent.fsdu9-1.fna.fbcdn.net/v/t1.18169-9/988765_597064443693080_1753160303_n.png?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=P4c0odr64CEAX_2_4CY&_nc_ht=scontent.fsdu9-1.fna&oh=a0f26060764ee0db52712fb180b3ed66&oe=60EF947C" width="50px"/>](https://www.origamid.com/) | <h5>Origamid</h5>Cursos de Web Design, UX/UI Design, HTML, CSS, JavaScript e React. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/repo_central_origamid)
+[<img alt="Imagem Origamid" src="/assets/origamid.png" width="50px"/>](https://www.origamid.com/) | <h5>Origamid</h5>Cursos de Web Design, UX/UI Design, HTML, CSS, JavaScript e React. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | [Link](https://github.com/EduSouza-programmer/repo_central_origamid)
 [<img alt="pluralsight" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGMBr54nDC6rw/company-logo_100_100/0/1596819394680?e=1634169600&v=beta&t=iRpewhkOsrJsLNPnDBCq8NbExQ04XGgW__55RJgyujM" width="50px"/>](https://www.udemy.com/course/css-um-passo-adiante/) | <h5>pluralsight</h5>Your customers won’t settle and neither should you. With Pluralsight, technology teams know more and work better together. Develop the skills you need for your top priorities. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | [Link](https://app.pluralsight.com/profile/eduardolimadasilva-s)
 [<img alt="dpw" src="https://yt3.ggpht.com/ytc/AKedOLQ_0G1o57zbbJ4Zh2BjYKBITRU8MUo06QFonxlI=s88-c-k-c0x00ffffff-no-rj" width="50px"/>](https://www.udemy.com/course/css-um-passo-adiante/) | <h5>Tárcio Zemel - dpw</h5>Eleve seu CSS ao próximo nível com CSSOO, SMACSS, BEM, Pré-processadores CSS, Namespaces CSS e Task Runners. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | -
 [<img alt="Fundação-Bradesco" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFOiaQvbDY3hQ/company-logo_100_100/0/1547486273811?e=1634169600&v=beta&t=hQu37AjvB6FiMiiR2qKzcOAcK1eS5zEMn9gt10FziJs" width="50px"/>](https://www.ev.org.br/) | <h5>Fundação bradesco - Html & CSS</h5>Construa seu futuro com os cursos gratuitos da Fundação Bradesco. | [![Badge](https://img.shields.io/badge/Status-Finished-Teal.svg)](https://shields.io/) | -
@@ -103,6 +104,7 @@ Name | Description | Status | repository
 
 
 <br/><br/>
+
 
 
 ## Atualmente trabalhando
@@ -114,9 +116,10 @@ Name | Description | Status | repository
 
 <img height="140px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
-[<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza&theme=tokyonight&bg_color=00000000&border_radius=50%" height="190px" width="310px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza) 
+[<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza_MUI&theme=tokyonight&bg_color=00000000&border_radius=50%" height="190px" width="310px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza) 
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight&bg_color=00000000&border_radius=50%" height="180px" width="400px" />](  https://github.com/EduSouza-programmer/won_games_client)
+ 
   
 </div>
 
