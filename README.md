@@ -27,6 +27,7 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 <br/><br/><br/>
 
 
+
 ## Tecnologias 
 
 <p align="center" >
