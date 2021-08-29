@@ -79,7 +79,7 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 
 ## Processos seletivos 
 
-<p>Na tabela abaixo você encontra os processos seletivos que participei em ordem cronologica dos mais novos aos mais antigos, infelizmente meu desempenho não foi satisfatório, mas deixo registrado minha experiência e pontos que melhorei :+1:.</p>
+<p>Na tabela abaixo você encontra os processos seletivos que participei em ordem cronologica dos mais recentes aos mais antigos, infelizmente meu desempenho não foi satisfatório, mas deixo registrado minha experiência e pontos que melhorei :+1:.</p>
 
 Name | Description  | repository | refactory | deploy | storybook
 :-----:|:---------- |:------: |:------: |:------: |:------:
@@ -89,7 +89,7 @@ Name | Description  | repository | refactory | deploy | storybook
 
 ## Cursos <img src="assets/stubparrot.gif" height="30">
 
-<p>Na tabela abaixo você encontra os cursos em ordem cronologica dos mais novos aos mais antigos que realizei ou que estão em andamento, tal como também os links dos seus repositorios com exercícios e projetos 🚀.</p>
+<p>Na tabela abaixo você encontra os cursos em ordem cronologica dos mais recentes aos mais antigos que realizei ou que estão em andamento, tal como também os links dos seus repositorios com exercícios e projetos 🚀.</p>
 
 Name | Description | Status | repository
 :-----:|:-------------|:--------:|:------:
