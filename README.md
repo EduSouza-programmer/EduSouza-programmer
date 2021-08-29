@@ -81,9 +81,9 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 
 <p>Na tabela abaixo você encontra os processos seletivos que participei em ordem cronologica dos mais novos aos mais antigos, infelizmente meu desempenho não foi satisfatório, mas deixo registrado minha experiência e pontos que melhorei :+1:.</p>
 
-Name | Description  | repository
-:-----:|:---------- |:------:
-[<img alt="Zapt" src="https://raw.githubusercontent.com/agraluca/desafio-zapt/main/.github/logo.png" width="50px"/>](https://www.udemy.com/course/react-avancado/) | A Zapt é uma empresa e-commerce social, com ela você pode junta seus amigos para comprar com desconto!  | [Link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza)
+Name | Description  | repository | repo-refactory | deploy
+:-----:|:---------- |:------: |:------: |:------:
+[<img alt="Zapt" src="https://raw.githubusercontent.com/agraluca/desafio-zapt/main/.github/logo.png" width="50px"/>](https://www.udemy.com/course/react-avancado/) | A Zapt é uma empresa e-commerce social, com ela você pode junta seus amigos para comprar com desconto!  | [Link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza) | [Link](https://github.com/EduSouza-programmer/challenge_zapt_refactory-Edu_Souza) | [Link](https://challenge-zapt-refactory-edu-souza-deploy-fm6pmtnhw.vercel.app/) 
 
 <br/><br/>
 
