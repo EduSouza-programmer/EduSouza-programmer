@@ -6,7 +6,7 @@
 
 
 [<img align="left" alt="My site" height="30px" src="https://img.icons8.com/doodle/48/000000/code-file.png"/>][website]
-[<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="LinkedIn" height="30px" src="https://img.icons8.com/doodle/96/000000/linkedin--v2.png"/>][linkedin]
 [<img align="left" alt="Facebook" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111342.png" />][Spotify]
 <p align=right>
   <img src="https://badges.pufler.dev/visits/EduSouza-programmer/EduSouza-programmer?color=4C6CA6&logo=github" />
