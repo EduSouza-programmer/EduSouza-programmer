@@ -78,11 +78,12 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 
 ## Processos seletivos 
 
-<p>Na tabela abaixo você encontra os processos seletivos que participei em ordem cronologica dos mais recentes aos mais antigos, infelizmente meu desempenho não foi satisfatório, mas deixo registrado minha experiência e pontos que melhorei :+1:.</p>
+<p>Na tabela abaixo você encontra os processos seletivos que participei em ordem cronologica dos mais recentes aos mais antigos, a intensão é registrar minha experiência e pontos evolutivos da minha carreira :+1:.</p>
 
 Name | Description  | repository | refactory | deploy | storybook
 :-----:|:---------- |:------: |:------: |:------: |:------:
-[<img alt="Zapt" src="https://raw.githubusercontent.com/agraluca/desafio-zapt/main/.github/logo.png" width="50px"/>](https://www.udemy.com/course/react-avancado/) | A Zapt é uma empresa e-commerce social, com ela você pode junta seus amigos para comprar com desconto!  | [Link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza) | [Link](https://github.com/EduSouza-programmer/challenge_zapt_refactory-Edu_Souza) | [Link](https://challenge-zapt-refactory-edu-souza-deploy-fm6pmtnhw.vercel.app/) | [Link](https://edu-zapt-storybook.netlify.app/?path=/story/components-userfeedbackbase--default) 
+[<img alt="Zapt logo" src="./assets/zapt.png" width="50px"/>](https://www.zapt.com.br/) | A Zapt é uma empresa e-commerce social, com ela você pode junta seus amigos para comprar com desconto!  | [Link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza) | [Link](https://github.com/EduSouza-programmer/challenge_zapt_refactory-Edu_Souza) | [Link](https://challenge-zapt-refactory-edu-souza-deploy-fm6pmtnhw.vercel.app/) | [Link](https://edu-zapt-storybook.netlify.app/?path=/story/components-userfeedbackbase--default) 
+[<img alt="Tractian logo" src="./assets/tractian.svg" width="50px"/>](https://tractian.com/) | O sistema preditivo mais completo do mercado | [Link](https://github.com/EduSouza-programmer/challenge_tractian-Edu_Souza) | - | [Link](https://challenge-tractian-edu-souza-deploy.vercel.app/) | [Link](https://edu-tractian-storybook.netlify.app/?path=/story/page-landingpage--mobile) 
 
 <br/><br/>
 
