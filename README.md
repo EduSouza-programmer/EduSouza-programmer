@@ -82,8 +82,9 @@ Me chamo Eduado Souza sou casado, pai de um casal (Vinicius e Vitória, amores d
 
 Name | Description  | repository | refactory | deploy | storybook
 :-----:|:---------- |:------: |:------: |:------: |:------:
+[<img alt="Tractian logo" src="./assets/tractian.svg" width="70px"/>](https://tractian.com/) | O sistema preditivo mais completo do mercado | [Link](https://github.com/EduSouza-programmer/challenge_tractian-Edu_Souza) | - | [Link](https://challenge-tractian-edu-souza-deploy.vercel.app/) | [Link](https://edu-tractian-storybook.netlify.app/?path=/story/page-landingpage--mobile)
 [<img alt="Zapt logo" src="./assets/zapt.png" width="50px"/>](https://www.zapt.com.br/) | A Zapt é uma empresa e-commerce social, com ela você pode junta seus amigos para comprar com desconto!  | [Link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza) | [Link](https://github.com/EduSouza-programmer/challenge_zapt_refactory-Edu_Souza) | [Link](https://challenge-zapt-refactory-edu-souza-deploy-fm6pmtnhw.vercel.app/) | [Link](https://edu-zapt-storybook.netlify.app/?path=/story/components-userfeedbackbase--default) 
-[<img alt="Tractian logo" src="./assets/tractian.svg" width="50px"/>](https://tractian.com/) | O sistema preditivo mais completo do mercado | [Link](https://github.com/EduSouza-programmer/challenge_tractian-Edu_Souza) | - | [Link](https://challenge-tractian-edu-souza-deploy.vercel.app/) | [Link](https://edu-tractian-storybook.netlify.app/?path=/story/page-landingpage--mobile) 
+
 
 <br/><br/>
 
