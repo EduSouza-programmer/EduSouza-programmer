@@ -12,10 +12,9 @@
     </style>
   </defs>
   <title>Logo-Tractian</title>
-  <g id="title">
+  <g fill="#2563eb" id="title">
     <path
       id="path271385"
-      class="cls-1"
       d="M9.06,7.89v7.57h2.76V7.89h3V5.71H6.06V7.89Z"
       transform="translate(-6.06 -5.46)"
     />
