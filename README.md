@@ -1,3 +1,5 @@
+[PAT_1]: variable NqNXoAwGiNNsVCWGpRaUn2U4
+
 <div align="center">
 <h1 title="hehehe"> Hey <img src="assets/space-cat.webp" height="40">, Eduardo Souza!</h1>
 </div>
