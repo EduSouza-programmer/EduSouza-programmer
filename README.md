@@ -1,5 +1,3 @@
-[PAT_1]: variable NqNXoAwGiNNsVCWGpRaUn2U4
-
 <div align="center">
 <h1 title="hehehe"> Hey <img src="assets/space-cat.webp" height="40">, Eduardo Souza!</h1>
 </div>
@@ -153,3 +151,4 @@ Name | Description | Status | repository
 [website]: https://edusouza-programmer.github.io/
 [linkedin]: https://www.linkedin.com/in/eduardosouzaprogrammer/
 [Spotify]: https://www.facebook.com/profile.php?id=100003755834780
+[PAT_1]: NqNXoAwGiNNsVCWGpRaUn2U4
