@@ -23,7 +23,7 @@
  ## Sobre mim
 
 <p>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Obrigado por visualizar meu perfil! 
-Me chamo Eduardo Souza sou casado, pai de um casal (Vinicius e Vitória, amores da minha vida), atualmente morando no Rio de Janeiro e trabalho como web developer, um verdadeiro estudante da área desde 2018. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Vícios em jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p>
+Me chamo Eduardo Souza sou casado, pai de um casal (Vinicius e Vitória, amores da minha vida), atualmente morando no Rio de Janeiro e trabalho como web developer, um verdadeiro estudante da área desde 2016. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Vícios em jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p>
 
 <br/><br/><br/>
 
