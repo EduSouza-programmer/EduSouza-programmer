@@ -6,7 +6,7 @@
 
 [<img align="left" alt="My site" height="30px" src="https://img.icons8.com/doodle/48/000000/code-file.png"/>][website]
 [<img align="left" alt="LinkedIn" height="30px" src="https://img.icons8.com/doodle/96/000000/linkedin--v2.png"/>][linkedin]
-[<img align="left" alt="Facebook" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111342.png" />][Spotify]
+[<img align="left" alt="Facebook" height="30px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png" />][Spotify]
 <p align=right>
   <img src="https://badges.pufler.dev/visits/EduSouza-programmer/EduSouza-programmer?color=4C6CA6&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=EduSouza-programmer&color=red" />
@@ -40,7 +40,7 @@ Me chamo Eduardo Lima sou casado, pai de um casal (Vinicius e Vitória, amores d
  <img alt="react" src="https://img.icons8.com/officel/80/000000/react.png" height="55px"/>
  <img alt="styled-component" src="https://styled-components.com/logo.png" height="50px"/>
  <img alt="storybook" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" height="50px" />
- <img alt="nextjs" src="https://boringowl.io/wp-content/uploads/2020/03/next-js-framework-300x300.jpg" height="50px" />
+ <img alt="nextjs" src="https://miro.medium.com/max/1200/1*xsMYIt3m_cleoHcd-Ncozg.png" height="50px" />
  <img alt="material-ui" src="https://img.icons8.com/color/96/000000/material-ui.png" height="55px"/>
  <img alt="jest" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" height="50px" />
  <img alt="testing-library" src="https://testing-library.com/img/octopus-64x64.png" height="50px" />
