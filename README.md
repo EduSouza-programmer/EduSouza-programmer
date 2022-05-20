@@ -24,10 +24,11 @@
 
 <p align="right"><img align="center" width="350px" height="270px" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
 <br/>
+
+</p>
 <div align=left>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 Obrigado por visualizar meu perfil! 
 Me chamo Eduardo Lima sou casado, pai de um casal (Vinicius e Vitória, amores da minha vida), atualmente morando no Rio de Janeiro e trabalho como web developer, um verdadeiro estudante da área desde 2016. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Vícios em jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</div>
-</p>
 
 
 
