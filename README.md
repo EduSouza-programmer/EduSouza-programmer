@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img align="right" width="398px" height="270px" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
+<img align="right" width="350px" height="270px" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
 
  ## Sobre mim
 
