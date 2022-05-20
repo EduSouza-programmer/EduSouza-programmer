@@ -22,7 +22,7 @@
 
  ## Sobre mim
 
-<p><img align="right" width="350px" height="270px" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
+<p><img align="center" width="350px" height="270px" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
 <br/>
 <p align=left>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 Obrigado por visualizar meu perfil! 
