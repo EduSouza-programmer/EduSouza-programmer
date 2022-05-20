@@ -122,7 +122,7 @@ Name | Description | Status | repository
 <div align=left>
  
   
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=EduSouza-programmer&theme=tokyonight&bg_color=00000000&border_radius=50%" height="170px" width="250px" />](https://github.com/EduSouza-programmer)&nbsp;
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=EduSouza-programmer&theme=tokyonight&bg_color=00000000&border_radius=50%" height="160px" width="250px" />](https://github.com/EduSouza-programmer)&nbsp;
 
 <img height="140px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
