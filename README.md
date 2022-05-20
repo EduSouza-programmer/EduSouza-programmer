@@ -122,11 +122,11 @@ Name | Description | Status | repository
 <div align=left>
  
   
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=EduSouza-programmer&theme=tokyonight&bg_color=00000000&border_radius=50%" height="170px" width="250px" />](https://github.com/EduSouza-programmer)&nbsp;
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=EduSouza-programmer&theme=tokyonight&bg_color=00000000&border_radius=50%" height="170px" width="250px" />](https://github.com/EduSouza-programmer)&nbsp;&nbsp;
 
-<img height="140px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
+<img height="160px" align="left"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
-[<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza_MUI&theme=tokyonight&bg_color=00000000&border_radius=50%" height="160px" width="250px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza_MUI) 
+[<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza_MUI&theme=tokyonight&bg_color=00000000&border_radius=50%" height="190px" width="300px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza_MUI) 
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=won_games_client&theme=tokyonight&bg_color=00000000&border_radius=50%" height="180px" width="400px" />](  https://github.com/EduSouza-programmer/won_games_client)
  
