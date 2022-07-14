@@ -8,7 +8,7 @@
 [<img align="left" alt="LinkedIn" height="30px" src="https://img.icons8.com/doodle/96/000000/linkedin--v2.png"/>][linkedin]
 [<img align="left" alt="Facebook" height="30px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png" />][Spotify]
 <p align=right>
-  <img src="https://badges.pufler.dev/visits/EduSouza-programmer/EduSouza-programmer?color=4C6CA6&logo=github" />
+ <!--  <img src="https://badges.pufler.dev/visits/EduSouza-programmer/EduSouza-programmer?color=4C6CA6&logo=github" /> -->
   <img src="https://komarev.com/ghpvc/?username=EduSouza-programmer&color=red" />
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEduSouza-programmer&count_bg=%239472BF&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EduSouza-programmer/EduSouza-programmer">
@@ -24,7 +24,7 @@
 
 <p align="center"><img align="center" width="400px" height="270px" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
 <br/>
-<div align=left><p align=left>Olá,<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">  -->
+<div align=left><p align=left>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 Obrigado por visualizar meu perfil! 
 Me chamo Eduardo Lima sou casado, pai de um casal (Vinicius e Vitória, amores da minha vida), atualmente morando no Rio de Janeiro e trabalho como web developer, um verdadeiro estudante da área desde 2016. Sou um cara tranquilo e pacato, também caseiro 😄 e adoro passar um tempo com a família. Vícios em jogar videogames(apesar de um tempos pra ca, tá difícil jogar srsr), escutar músicas, tocar violão e maratonar series 💪.</p><div>
 </p>
