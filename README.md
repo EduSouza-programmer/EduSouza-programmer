@@ -150,7 +150,7 @@ Name | Description | Status | repository
   
    <img  height="190px" src="https://github-profile-trophy.vercel.app/?username=EduSouza-programmer&theme=nord&no-bg=true&column=3&row=2&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EduSouza-programmer&theme=react-dark&hide_border=true&color=4C6CA6&point=9472BF&line=42978D&bg_color=00000000)
+  [GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EduSouza-programmer&theme=react-dark&hide_border=true&color=4C6CA6&point=9472BF&line=42978D&bg_color=00000000)
   
 </p>
 
