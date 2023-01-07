@@ -19,7 +19,7 @@
 <br/><br/>
 
 
-<img align="right" width="350px" height="270px" alt="GIF" src="/assets/bradesco.jpeg" />
+<img align="right" width="350px" height="270px" alt="GIF" src="/assets/prog.gif" />
 
  ## Sobre mim
 
