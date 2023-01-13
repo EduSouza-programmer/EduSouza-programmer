@@ -129,6 +129,9 @@ Name | Description | Status | repository
   
 [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=EduSouza-programmer&theme=tokyonight&bg_color=00000000&border_radius=50%" height="170px" width="290px" />](https://github.com/EduSouza-programmer)&nbsp;&nbsp;
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <img height="180px" align="center"  src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 
 [<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=EduSouza-programmer&repo=boilerplate_Edu_Souza_MUI&theme=tokyonight&bg_color=00000000&border_radius=50%" height="180px" width="320px" />](https://github.com/EduSouza-programmer/boilerplate_Edu_Souza_MUI) 
