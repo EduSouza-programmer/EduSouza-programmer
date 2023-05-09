@@ -59,3 +59,4 @@ counter: 3
 counter: 4
 counter: 5
 counter: 6
+counter: 7
