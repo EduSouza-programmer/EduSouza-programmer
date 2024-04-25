@@ -23,13 +23,13 @@
 
  ## Sobre mim
 
-<p>Olá,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá! Obrigado por visitar meu perfil. Meu nome é Eduardo Lima, sou casado e tenho a alegria de ser pai de dois incríveis filhos, Vinicius e Vitória, que são os amores da minha vida. Atualmente, moro no Rio de Janeiro, onde desenvolvo minha carreira como web developer desde 2016. Sou apaixonado por tecnologia e um eterno estudante nesta área, sempre buscando atualizar e aprimorar minhas habilidades.
+<p>Olá!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Obrigado por visitar meu perfil. Meu nome é Eduardo Lima, sou casado e tenho a alegria de ser pai de dois incríveis filhos, Vinicius e Vitória, que são os amores da minha vida. Atualmente, moro no Rio de Janeiro, onde desenvolvo minha carreira como web developer desde 2016. Sou apaixonado por tecnologia e um eterno estudante nesta área, sempre buscando atualizar e aprimorar minhas habilidades.
 
 Além do meu trabalho com desenvolvimento web, também atuo na área de marketing digital. Estou sempre em busca de novas estratégias e ferramentas que possam otimizar a presença online das marcas com as quais trabalho, explorando o vasto potencial do marketing digital para alcançar e engajar audiências de maneira eficaz.
 
 No meu tempo livre, gosto de manter um estilo de vida tranquilo e caseiro, valorizando muito os momentos com minha família. Sou aficionado por videogames, embora ultimamente tenha encontrado menos tempo para jogar. Também me delicio ouvindo música, tocando violão e maratonando séries. Esses hobbies me proporcionam um ótimo equilíbrio entre a vida profissional e pessoal, permitindo-me recarregar as energias e voltar ao trabalho revigorado. </p>
 
-<br/><br/><br/>
+<br/><br/>
 
 <!--  ## Sobre mim
 
