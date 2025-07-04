@@ -1,5 +1,5 @@
 <div align="center">
-<h1 title="hehehe"> Hey <img src="assets/space-cat.webp" height="40">, Eduardo Lima!</h1>
+<h1 title="hehehe"> Hey <img src="assets/space-cat.webp" height="15">, Eduardo Lima!</h1>
 </div>
 
 
