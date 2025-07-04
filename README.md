@@ -86,7 +86,7 @@ Me chamo Eduardo Lima sou casado, pai de um casal (Vinicius e Vitória, amores d
  <img alt="figma" src="https://img.icons8.com/color/96/000000/figma--v1.png" width="50px" height="50px"/>
  <img alt="netlify" src="https://www.saashub.com/images/app/service_logos/6/c0579f97bf3c/large.png?1527064814" width="50px" height="50px"  />
  <img alt="heroku" src="https://img.icons8.com/color/96/000000/heroku.png" width="50px" height="50px"/>
- <img alt="cloudinary" src="https://cloudinary-res.cloudinary.com/image/upload/dpr_2.0,c_scale,f_auto,q_auto,w_156/cloudinary_logo_for_white_bg.svg" width="50px" height="50px" />
+ <img alt="cloudinary" src="https://cloudinary-res.cloudinary.com/image/upload/dpr_2.0,c_scale,f_auto,q_auto,w_156/cloudinary_logo_for_white_bg.svg" width="100px" height="100px" />
  <img alt="Slack"  src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/slack-original.svg" width="50px" height="50px" />
 </p>
 
