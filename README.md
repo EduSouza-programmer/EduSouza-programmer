@@ -4,14 +4,14 @@
 
 
 
-[<img align="left" alt="My site" height="30px" src="https://img.icons8.com/doodle/48/000000/code-file.png"/>][website]
-[<img align="left" alt="LinkedIn" height="30px" src="https://img.icons8.com/doodle/96/000000/linkedin--v2.png"/>][linkedin]
-[<img align="left" alt="Facebook" height="30px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png" />][Spotify]
+[<img align="left" alt="My site" width="80px" height="80px" src="https://img.icons8.com/doodle/48/000000/code-file.png"/>][website]
+[<img align="left" alt="LinkedIn" width="80px" height="80px" src="https://img.icons8.com/doodle/96/000000/linkedin--v2.png"/>][linkedin]
+[<img align="left" alt="Facebook" width="80px" height="80px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png" />][Spotify]
 <p align=right>
  <!--  <img src="https://badges.pufler.dev/visits/EduSouza-programmer/EduSouza-programmer?color=4C6CA6&logo=github" /> -->
-  <img width="80px" height="80px" src="https://komarev.com/ghpvc/?username=EduSouza-programmer&color=red" />
-  <img width="80px" height="80px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEduSouza-programmer&count_bg=%239472BF&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-  <img width="80px" height="80px" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EduSouza-programmer/EduSouza-programmer">
+  <img src="https://komarev.com/ghpvc/?username=EduSouza-programmer&color=red" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEduSouza-programmer&count_bg=%239472BF&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EduSouza-programmer/EduSouza-programmer">
 </p>
 
 
