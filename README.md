@@ -86,7 +86,7 @@ Me chamo Eduardo Lima sou casado, pai de um casal (Vinicius e Vitória, amores d
  <img alt="figma" src="https://img.icons8.com/color/96/000000/figma--v1.png" width="50px" height="50px"/>
  <img alt="netlify" src="https://www.saashub.com/images/app/service_logos/6/c0579f97bf3c/large.png?1527064814" width="50px" height="50px"  />
  <img alt="heroku" src="https://img.icons8.com/color/96/000000/heroku.png" width="50px" height="50px"/>
- <img alt="cloudinary" src="https://cloudinary-res.cloudinary.com/image/upload/dpr_2.0,c_scale,f_auto,q_auto,w_156/cloudinary_logo_for_white_bg.svg" width="25px" height="25px" />
+ <img alt="cloudinary" src="https://cloudinary-res.cloudinary.com/image/upload/dpr_2.0,c_scale,f_auto,q_auto,w_156/cloudinary_logo_for_white_bg.svg" width="50px" height="50px" />
  <img alt="Slack"  src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/slack-original.svg" width="50px" height="50px" />
 </p>
 
@@ -106,7 +106,7 @@ Name | Description  | repository | refactory | deploy | storybook
 
 <br/><br/>
 
-## Cursos <img src="assets/stubparrot.gif" width="30" height="30">
+## Cursos <img src="assets/stubparrot.gif" width="45" height="45">
 
 <p>Na tabela abaixo você encontra os cursos em ordem cronologica dos mais recentes aos mais antigos que realizei ou que estão em andamento, tal como também os links dos seus repositorios com exercícios e projetos 🚀.</p>
 
