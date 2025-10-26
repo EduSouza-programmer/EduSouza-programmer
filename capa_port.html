@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>AF - Análise de Sistema I</title>
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				height: 100vh;
+				margin: 0;
+				background-color: #f0f0f0;
+				overflow: auto; /* Permite scroll se for maior que a tela */
+			}
+
+			/* Este é o container principal da sua "Capa" de File 1 */
+			/* Adicionei position: relative e overflow: hidden para conter as faixas */
+			.capa {
+				width: 210mm; /* Portrait */
+				height: 297mm; /* Portrait */
+				background-color: white;
+				box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+				display: flex;
+				flex-direction: column;
+				justify-content: space-between;
+				padding: 40px;
+				box-sizing: border-box;
+
+				position: relative; /* Necessário para as faixas */
+				overflow: hidden; /* Corta as faixas nas bordas */
+			}
+
+			/* --- ELEMENTOS DE DESIGN (Copiados do File 2) --- */
+
+			.top-red-band {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 70%;
+				height: 220px; /* Ajustado para portrait */
+				background-color: #8b0000;
+				clip-path: polygon(0 0, 100% 0, 93% 100%, 0% 100%);
+				z-index: 1; /* Camada 1: Fundo */
+			}
+
+			.top-blue-band {
+				position: absolute;
+				top: 0;
+				right: 0;
+				width: 50%;
+				height: 180px; /* Ajustado para portrait */
+				background-color: #003366;
+				clip-path: polygon(5% 0, 100% 0, 100% 100%, 0% 100%);
+				z-index: 1; /* Camada 1: Fundo */
+			}
+
+			/* Rodapé vermelho */
+			.bottom-red-band {
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				width: 100%;
+				height: 60px; /* Ajustado para portrait */
+				background-color: #8b0000;
+				z-index: 1; /* Camada 1: Fundo */
+			}
+
+			/* Curva branca sobre o rodapé */
+			.bottom-red-band::before {
+				content: '';
+				position: absolute;
+				top: -30px; /* Metade da altura do rodapé */
+				left: 0;
+				width: 100%;
+				height: 60px; /* Mesma altura do rodapé */
+				background-color: white;
+				border-top-left-radius: 100% 30px;
+				border-top-right-radius: 100% 30px;
+				z-index: 2; /* Acima do rodapé vermelho */
+				transform-origin: center bottom;
+			}
+
+			/* Cabeçalho */
+			.banner-header {
+				display: flex;
+				align-items: center;
+				padding: 15px 20px 10px 20px;
+				color: white;
+				position: relative;
+				z-index: 7;
+				margin-top: 30px;
+			}
+
+			.banner-header .instituicao {
+				margin-left: 15px;
+			}
+
+			.banner-header .instituicao h1 {
+				font-size: 22px;
+				font-weight: bold;
+				margin: 0;
+			}
+
+			.banner-header .instituicao h2 {
+				font-size: 18px;
+				font-weight: normal;
+				margin: 5px 0 0 0;
+			}
+
+			/* --- ELEMENTOS DE CONTEÚDO (Originais do File 1) --- */
+			/* Adicionado position: relative e z-index: 3 para ficarem na frente */
+
+			.conteudo {
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+				flex-grow: 1;
+				position: relative; /* Para ficar na frente */
+				z-index: 3; /* Para ficar na frente */
+			}
+			.logo {
+				text-align: center;
+				margin-bottom: 40px;
+			}
+			.logo img {
+				max-width: 200px; /* Ajustado de 300px (muito grande) */
+			}
+			.titulo {
+				text-align: center;
+				font-size: 24px;
+				font-weight: bold;
+				margin-bottom: 20px;
+				color: #333; /* Garantir cor */
+			}
+			.subtitulo {
+				text-align: center;
+				font-size: 18px;
+				color: #333; /* Garantir cor */
+			}
+
+			.informacoes {
+				text-align: center;
+				position: relative; /* Para ficar na frente */
+				z-index: 3; /* Para ficar na frente */
+				margin-bottom: 50px;
+			}
+			.autor {
+				font-size: 16px;
+				margin-bottom: 10px;
+				color: #333; /* Garantir cor */
+			}
+			.curso {
+				font-size: 16px;
+				margin-bottom: 10px;
+				color: #333; /* Garantir cor */
+			}
+			.matricula {
+				font-size: 14px;
+				color: #333; /* Garantir cor */
+			}
+		</style>
+	</head>
+	<body>
+		<div class="capa">
+			<div class="top-red-band"></div>
+			<div class="top-blue-band"></div>
+			<div class="bottom-red-band"></div>
+			<header class="banner-header">
+				<div class="instituicao">
+					<h1>UNIVERSIDADE SALGADO DE OLIVEIRA - UNIVERSO</h1>
+					<h2>Sistema da Informação – EAD – CAMPUS São Gonçalo RJ</h2>
+				</div>
+			</header>
+
+			<div class="conteudo">
+				<div class="logo">
+					<img
+						src="https://i.ibb.co/RkG4Gzhr/universo-seeklogo.png"
+						alt="Logo UNIVERSO"
+					/>
+				</div>
+				<div class="titulo">AF - Avaliação - Análise de Sistema I</div>
+				<div class="subtitulo">
+					Resenha - Princípios de Análise e Projeto de Sistemas com UML
+				</div>
+			</div>
+
+			<div class="informacoes">
+				<div class="autor">
+					<strong>Aluno:</strong> Eduardo Lima da Silva Souza
+				</div>
+				<div class="curso">
+					<strong>Professora:</strong> Alessandra Alvez Fonseca Vargas
+				</div>
+				<div class="curso"><strong>Curso:</strong> Sistema da Informação</div>
+				<div class="matricula"><strong>Matrícula:</strong> 600984190</div>
+			</div>
+		</div>
+	</body>
+</html>

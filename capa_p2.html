@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Template de Banner UNIVERSO (Versão Corrigida)</title>
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				min-height: 100vh;
+				margin: 0;
+				padding: 20px;
+				box-sizing: border-box;
+				background-color: #f0f0f0;
+				overflow: auto; /* Permite scroll */
+			}
+
+			/* Contêiner principal do banner (A4 Landscape) */
+			.banner-container {
+				position: relative;
+				width: 297mm;
+				height: 210mm;
+				background-color: white;
+				box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+				display: flex;
+				flex-direction: column;
+				box-sizing: border-box;
+				overflow: hidden;
+			}
+
+			/* --- ELEMENTOS DE FUNDO (FAIXAS) --- */
+
+			/* AJUSTADO: Revertido para um clip-path angular mais simples */
+			.top-red-band {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 70%;
+				height: 130px;
+				background-color: #8b0000;
+				clip-path: polygon(0 0, 100% 0, 93% 100%, 0% 100%);
+				z-index: 1; /* Camada 1: Fundo */
+			}
+
+			/* AJUSTADO: Revertido para um clip-path angular mais simples */
+			.top-blue-band {
+				position: absolute;
+				top: 0;
+				right: 0;
+				width: 50%;
+				height: 110px;
+				background-color: #003366;
+				clip-path: polygon(5% 0, 100% 0, 100% 100%, 0% 100%);
+				z-index: 1; /* Camada 1: Fundo */
+			}
+
+			/* Rodapé vermelho */
+			.bottom-red-band {
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				width: 100%;
+				height: 80px;
+				background-color: #8b0000;
+				z-index: 1; /* Camada 1: Fundo */
+			}
+
+			/* Curva branca sobre o rodapé */
+			.bottom-red-band::before {
+				content: '';
+				position: absolute;
+				top: -40px;
+				left: 0;
+				width: 100%;
+				height: 80px;
+				background-color: white;
+				border-top-left-radius: 100% 40px;
+				border-top-right-radius: 100% 40px;
+				z-index: 3; /* Camada 3 (Acima da marca d'água antiga) */
+				transform-origin: center bottom;
+			}
+
+			/* AJUSTADO: Watermark agora é o logo no rodapé */
+			.watermark-logo {
+				position: absolute;
+				bottom: 10px; /* 10px de baixo */
+				right: 20px; /* 20px da direita */
+				width: 80px; /* Menor */
+				opacity: 1; /* Cor sólida */
+				z-index: 5; /* Acima de tudo (incluindo rodapé) */
+			}
+
+			/* --- CONTEÚDO PRINCIPAL (Fica acima de tudo) --- */
+			.main-content {
+				position: relative;
+				z-index: 4; /* Camada 4 (Acima de tudo) */
+				display: flex;
+				flex-direction: column;
+				flex-grow: 1;
+				height: 100%;
+				box-sizing: border-box;
+			}
+
+			/* Cabeçalho */
+			.banner-header {
+				display: flex;
+				align-items: center;
+				padding: 15px 20px 10px 20px;
+				color: white;
+			}
+
+			/* Fundo branco para o logo */
+			.banner-header .logo {
+				background-color: white;
+				padding: 10px;
+				border-radius: 8px; /* Cantos arredondados */
+				margin-left: 20px; /* Espaçamento da borda */
+				box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra suave */
+			}
+
+			.banner-header .logo img {
+				max-width: 110px;
+				margin-right: 0;
+				display: block;
+			}
+
+			.banner-header .instituicao {
+				margin-left: 15px;
+			}
+
+			.banner-header .instituicao h1 {
+				font-size: 22px;
+				font-weight: bold;
+				margin: 0;
+			}
+
+			.banner-header .instituicao h2 {
+				font-size: 18px;
+				font-weight: normal;
+				margin: 5px 0 0 0;
+			}
+
+			/* AJUSTADO: Banner do Título (agora usa clip-path) */
+			.titulo-projeto-banner {
+				background-color: #8b0000;
+				color: white;
+				text-align: center;
+				padding: 10px 20px;
+				margin: 10px 40px 0 20px;
+				z-index: 4;
+				/* clip-path para combinar com o design angular */
+				clip-path: polygon(0 0, 100% 0, 98% 100%, 0% 100%);
+			}
+
+			.titulo-projeto-banner h3 {
+				font-size: 22px;
+				font-weight: bold;
+				margin: 0;
+			}
+
+			/* Seção de Autoria */
+			.autoria-section {
+				display: flex;
+				justify-content: center;
+				gap: 40px;
+				font-size: 14px;
+				margin: 15px 0 10px 0;
+				color: #333;
+				z-index: 4;
+			}
+			.autoria-section p {
+				margin: 0;
+			}
+
+			/* --- GRID DE CONTEÚDO --- */
+			.conteudo-principal {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				grid-template-rows: repeat(2, 1fr);
+				gap: 20px;
+				flex-grow: 1;
+				padding: 10px 40px 100px 40px;
+			}
+
+			.caixa-conteudo {
+				background-color: #f9f9f9;
+				border: 1px solid #dddddd;
+				padding: 10px;
+				font-size: 12px;
+				line-height: 1.4;
+				box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+			}
+
+			.caixa-conteudo h4 {
+				font-size: 16px;
+				font-weight: bold;
+				text-align: center;
+				background-color: #003366;
+				padding: 8px;
+				margin: -10px -10px 10px -10px;
+				color: white;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="banner-container">
+			<div class="top-red-band"></div>
+			<div class="top-blue-band"></div>
+			<div class="bottom-red-band"></div>
+
+			<!-- <img
+				src="assets/universo-seeklogo.png"
+				class="watermark-logo"
+				alt="Logo UNIVERSO"
+			/> -->
+
+			<div class="main-content">
+				<header class="banner-header">
+					<div class="logo">
+						<img
+							src="https://i.ibb.co/RkG4Gzhr/universo-seeklogo.png"
+							alt="Logo UNIVERSO"
+						/>
+					</div>
+					<div class="instituicao">
+						<h1>UNIVERSIDADE SALGADO DE OLIVEIRA - UNIVERSO</h1>
+						<h2>[ CURSO DE XXXXX – EAD – CAMPUS XXXXX ]</h2>
+					</div>
+				</header>
+
+				<section class="titulo-projeto-banner">
+					<h3>[ TÍTULO DO PROJETO ]</h3>
+				</section>
+
+				<section class="autoria-section">
+					<div class="autores">
+						<p><strong>Autor:</strong> [ Nome do Autor ]</p>
+						<p><strong>Matricula:</strong> [ Nome do Autor ]</p>
+						<p><strong>Professor:</strong> [ Professor ]</p>
+					</div>
+				</section>
+
+				<main class="conteudo-principal">
+					<section class="caixa-conteudo">
+						<h4>[INTRODUÇÃO]</h4>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non
+							risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing
+							nec, ultricies sed, dolor. Cras elementum ultrices diam.
+						</p>
+					</section>
+
+					<section class="caixa-conteudo">
+						<h4>[METODOLOGIA]</h4>
+						<p>
+							Donec eu libero sit amet quam egestas semper. Aenean ultricies mi
+							vitae est. Mauris placerat eleifend leo. Quisque sit amet est et
+							sapien ullamcorper pharetra.
+						</p>
+						<p>
+							Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit
+							amet, wisi.
+						</p>
+					</section>
+
+					<section class="caixa-conteudo">
+						<h4>[CONCLUSÕES]</h4>
+						<p>
+							Praesent dapibus, neque id cursus faucibus, tortor neque egestas
+							augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam
+							dui mi, tincidunt quis, accumsan porttitor, facilisis luctus,
+							metus.
+						</p>
+					</section>
+
+					<section class="caixa-conteudo">
+						<h4>[OBJETIVOS]</h4>
+						<p>
+							Pellentesque habitant morbi tristique senectus et netus et
+							malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat
+							vitae, ultricies eget, tempor sit amet, ante.
+						</p>
+					</section>
+
+					<section class="caixa-conteudo">
+						<h4>[RESULTADOS]</h4>
+						<p>
+							Aenean fermentum, elit eget tincidunt condimentum, eros ipsum
+							rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in
+							turpis pulvinar facilisis. Ut felis.
+						</p>
+					</section>
+
+					<section class="caixa-conteudo">
+						<h4>[REFERÊNCIAS]</h4>
+						<p style="font-size: 11px; line-height: 1.5">
+							1. AUTOR, A. B. Título do livro. Cidade: Editora, Ano. <br />
+							2. SOBRENOME, N. Título do Artigo. Nome da Revista, v. 1, n. 1, p.
+							1-10, 2025. <br />
+							3. BRASIL. Ministério da Saúde. Título da publicação. Brasília,
+							DF: Ministério da Saúde, 2024.
+						</p>
+					</section>
+				</main>
+			</div>
+		</div>
+	</body>
+</html>
