@@ -164,7 +164,7 @@ Name | Description | Status | repository
 <br/><br/>
 
 <div align=center>
-  <p>Feito com &hearts; por <em>Edu Lima, 2025.</em><img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /></p>
+  <p>Feito com &hearts; por <em>Edu Lima, 2026.</em><img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /></p>
 </div>
 
 [website]: https://edusouza-programmer.github.io/
