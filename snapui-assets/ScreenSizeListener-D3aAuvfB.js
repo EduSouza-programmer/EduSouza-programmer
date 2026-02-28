@@ -1,1 +1,0 @@
-import{r as s,j as r}from"./widget-CtZ8uwGu.js";import{u as t,s as n}from"./Widget-BabkmTTu.js";import{e as o}from"./WidgetApp-BPXBIQGr.js";const i=()=>{const e=t();return s.useEffect(()=>{n.setScreenSize(e)},[e]),r.jsx(r.Fragment,{})};i.displayName=`ScreenSizeListener-v${o}`;export{i as ScreenSizeListener,i as default};
